@@ -2,19 +2,21 @@ import json
 import requests
 
 from time import sleep
-from flask import Flask
-from flask_cors import CORS
+from flask import Flask, jsonify
+from flask_cors import CORS, cross_origin
 
 global app
 app = Flask(__name__)
 CORS(app, resources={r'/*': {'origins': '*'}})
 
 
-@app.route('/temps/')
+@app.route('/temps/', methods=["GET"])
 def send_temperatures():
     with open("/tmp/eu-temperatures.json", "r") as f:
         temps = json.loads(f.read())
-    return temps
+    response = jsonify(temps)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
 
 
 if __name__ == "__main__":

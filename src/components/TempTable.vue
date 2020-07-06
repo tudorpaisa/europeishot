@@ -24,6 +24,8 @@
 import axios from "axios";
 import showdown from "showdown";
 
+axios.defaults.baseURL = 'http://' + window.location.hostname + ':5000'
+
 export default {
   name: "TempTable",
   components: {},
@@ -39,8 +41,7 @@ In the event of [yet](https://edition.cnn.com/2020/06/25/weather/uk-europe-heat-
   mounted() {
     const converter = new showdown.Converter();
     this.msg = converter.makeHtml(this.mdText);
-    axios
-      .get("http://localhost:5000/temps/", { crossdomain: true })
+    axios.get("/temps/", { crossdomain: true })
       .then(response => {
         response.data.temps.forEach(element =>
           this.cityTemps.push({
