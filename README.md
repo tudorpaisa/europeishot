@@ -1,24 +1,12 @@
 # europeishot
 
-## Project setup
+## Install
+
 ```
+sudo apt insall npm python-pip3
+sudo npm install -g @vue/cli
+cd /path/to/project
 npm install
+cd backend
+pip3 install -r requirements.txt
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
