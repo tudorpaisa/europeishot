@@ -3,6 +3,11 @@
     <el-menu :router="true" :default-active="activeLink" mode="horizontal">
       <el-menu-item index="/">Home</el-menu-item>
       <el-menu-item index="/info">Info</el-menu-item>
+      <el-menu-item
+        ><a href="https://github.com/tudorpaisa/europeishot"
+          >GitHub</a
+        ></el-menu-item
+      >
     </el-menu>
     <router-view></router-view>
   </div>
