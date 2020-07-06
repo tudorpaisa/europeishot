@@ -1,0 +1,884 @@
+{
+  "data": [
+    {
+      "asciiname": "Moscow",
+      "country": "Russia",
+      "population": 10381222
+    },
+    {
+      "asciiname": "London",
+      "country": "United Kingdom",
+      "population": 7556900
+    },
+    {
+      "asciiname": "Saint Petersburg",
+      "country": "Russia",
+      "population": 5028000
+    },
+    {
+      "asciiname": "Berlin",
+      "country": "Germany",
+      "population": 3426354
+    },
+    {
+      "asciiname": "Madrid",
+      "country": "Spain",
+      "population": 3255944
+    },
+    {
+      "asciiname": "Kyiv",
+      "country": "Ukraine",
+      "population": 2797553
+    },
+    {
+      "asciiname": "Rome",
+      "country": "Italy",
+      "population": 2318895
+    },
+    {
+      "asciiname": "Paris",
+      "country": "France",
+      "population": 2138551
+    },
+    {
+      "asciiname": "Bucharest",
+      "country": "Romania",
+      "population": 1877155
+    },
+    {
+      "asciiname": "Minsk",
+      "country": "Belarus",
+      "population": 1742124
+    },
+    {
+      "asciiname": "Budapest",
+      "country": "Hungary",
+      "population": 1741041
+    },
+    {
+      "asciiname": "Hamburg",
+      "country": "Germany",
+      "population": 1739117
+    },
+    {
+      "asciiname": "Warsaw",
+      "country": "Poland",
+      "population": 1702139
+    },
+    {
+      "asciiname": "Vienna",
+      "country": "Austria",
+      "population": 1691468
+    },
+    {
+      "asciiname": "Barcelona",
+      "country": "Spain",
+      "population": 1621537
+    },
+    {
+      "asciiname": "Stockholm",
+      "country": "Sweden",
+      "population": 1515017
+    },
+    {
+      "asciiname": "Kharkiv",
+      "country": "Ukraine",
+      "population": 1430885
+    },
+    {
+      "asciiname": "Novosibirsk",
+      "country": "Russia",
+      "population": 1419007
+    },
+    {
+      "asciiname": "Yekaterinburg",
+      "country": "Russia",
+      "population": 1349772
+    },
+    {
+      "asciiname": "Nizhniy Novgorod",
+      "country": "Russia",
+      "population": 1284164
+    },
+    {
+      "asciiname": "Belgrade",
+      "country": "Serbia",
+      "population": 1273651
+    },
+    {
+      "asciiname": "Munich",
+      "country": "Germany",
+      "population": 1260391
+    },
+    {
+      "asciiname": "Milan",
+      "country": "Italy",
+      "population": 1236837
+    },
+    {
+      "asciiname": "Prague",
+      "country": "Czech Republic",
+      "population": 1165581
+    },
+    {
+      "asciiname": "Copenhagen",
+      "country": "Denmark",
+      "population": 1153615
+    },
+    {
+      "asciiname": "Sofia",
+      "country": "Bulgaria",
+      "population": 1152556
+    },
+    {
+      "asciiname": "Samara",
+      "country": "Russia",
+      "population": 1134730
+    },
+    {
+      "asciiname": "Omsk",
+      "country": "Russia",
+      "population": 1129281
+    },
+    {
+      "asciiname": "Kazan",
+      "country": "Russia",
+      "population": 1104738
+    },
+    {
+      "asciiname": "Rostov-na-Donu",
+      "country": "Russia",
+      "population": 1074482
+    },
+    {
+      "asciiname": "Chelyabinsk",
+      "country": "Russia",
+      "population": 1062919
+    },
+    {
+      "asciiname": "Dnipro",
+      "country": "Ukraine",
+      "population": 1032822
+    },
+    {
+      "asciiname": "Donetsk",
+      "country": "Ukraine",
+      "population": 1024700
+    },
+    {
+      "asciiname": "Dublin",
+      "country": "Ireland",
+      "population": 1024027
+    },
+    {
+      "asciiname": "Brussels",
+      "country": "Belgium",
+      "population": 1019022
+    },
+    {
+      "asciiname": "Odessa",
+      "country": "Ukraine",
+      "population": 1001558
+    },
+    {
+      "asciiname": "Birmingham",
+      "country": "United Kingdom",
+      "population": 984333
+    },
+    {
+      "asciiname": "Koeln",
+      "country": "Germany",
+      "population": 963395
+    },
+    {
+      "asciiname": "Naples",
+      "country": "Italy",
+      "population": 959470
+    },
+    {
+      "asciiname": "Turin",
+      "country": "Italy",
+      "population": 870456
+    },
+    {
+      "asciiname": "Liverpool",
+      "country": "United Kingdom",
+      "population": 864122
+    },
+    {
+      "asciiname": "Valencia",
+      "country": "Spain",
+      "population": 814208
+    },
+    {
+      "asciiname": "Zaporizhia",
+      "country": "Ukraine",
+      "population": 796217
+    },
+    {
+      "asciiname": "Marseille",
+      "country": "France",
+      "population": 794811
+    },
+    {
+      "asciiname": "Lodz",
+      "country": "Poland",
+      "population": 768755
+    },
+    {
+      "asciiname": "Krakow",
+      "country": "Poland",
+      "population": 755050
+    },
+    {
+      "asciiname": "Riga",
+      "country": "Latvia",
+      "population": 742572
+    },
+    {
+      "asciiname": "Amsterdam",
+      "country": "Netherlands",
+      "population": 741636
+    },
+    {
+      "asciiname": "Nottingham",
+      "country": "United Kingdom",
+      "population": 729977
+    },
+    {
+      "asciiname": "Lviv",
+      "country": "Ukraine",
+      "population": 717803
+    },
+    {
+      "asciiname": "Sevilla",
+      "country": "Spain",
+      "population": 703206
+    },
+    {
+      "asciiname": "Zagreb",
+      "country": "Croatia",
+      "population": 698966
+    },
+    {
+      "asciiname": "Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "population": 696731
+    },
+    {
+      "asciiname": "Sheffield",
+      "country": "United Kingdom",
+      "population": 685368
+    },
+    {
+      "asciiname": "Zaragoza",
+      "country": "Spain",
+      "population": 674317
+    },
+    {
+      "asciiname": "Athens",
+      "country": "Greece",
+      "population": 664046
+    },
+    {
+      "asciiname": "Kryvyi Rih",
+      "country": "Ukraine",
+      "population": 652380
+    },
+    {
+      "asciiname": "Frankfurt am Main",
+      "country": "Germany",
+      "population": 650000
+    },
+    {
+      "asciiname": "Palermo",
+      "country": "Italy",
+      "population": 648260
+    },
+    {
+      "asciiname": "Chisinau",
+      "country": "Moldova",
+      "population": 635994
+    },
+    {
+      "asciiname": "Wroclaw",
+      "country": "Poland",
+      "population": 634893
+    },
+    {
+      "asciiname": "Bristol",
+      "country": "United Kingdom",
+      "population": 617280
+    },
+    {
+      "asciiname": "Rotterdam",
+      "country": "Netherlands",
+      "population": 598199
+    },
+    {
+      "asciiname": "Essen",
+      "country": "Germany",
+      "population": 593085
+    },
+    {
+      "asciiname": "Glasgow",
+      "country": "United Kingdom",
+      "population": 591620
+    },
+    {
+      "asciiname": "Stuttgart",
+      "country": "Germany",
+      "population": 589793
+    },
+    {
+      "asciiname": "Dortmund",
+      "country": "Germany",
+      "population": 588462
+    },
+    {
+      "asciiname": "Genoa",
+      "country": "Italy",
+      "population": 580223
+    },
+    {
+      "asciiname": "Oslo",
+      "country": "Norway",
+      "population": 580000
+    },
+    {
+      "asciiname": "Duesseldorf",
+      "country": "Germany",
+      "population": 573057
+    },
+    {
+      "asciiname": "Goeteborg",
+      "country": "Sweden",
+      "population": 572799
+    },
+    {
+      "asciiname": "Poznan",
+      "country": "Poland",
+      "population": 570352
+    },
+    {
+      "asciiname": "Malaga",
+      "country": "Spain",
+      "population": 568305
+    },
+    {
+      "asciiname": "Helsinki",
+      "country": "Finland",
+      "population": 558457
+    },
+    {
+      "asciiname": "Bremen",
+      "country": "Germany",
+      "population": 546501
+    },
+    {
+      "asciiname": "Vilnius",
+      "country": "Lithuania",
+      "population": 542366
+    },
+    {
+      "asciiname": "Lisbon",
+      "country": "Portugal",
+      "population": 517802
+    },
+    {
+      "asciiname": "Mykolayiv",
+      "country": "Ukraine",
+      "population": 510840
+    },
+    {
+      "asciiname": "Leicester",
+      "country": "United Kingdom",
+      "population": 508916
+    },
+    {
+      "asciiname": "Mariupol",
+      "country": "Ukraine",
+      "population": 481626
+    },
+    {
+      "asciiname": "Gomel",
+      "country": "Belarus",
+      "population": 480951
+    },
+    {
+      "asciiname": "Skopje",
+      "country": "North Macedonia",
+      "population": 474889
+    },
+    {
+      "asciiname": "The Hague",
+      "country": "Netherlands",
+      "population": 474292
+    },
+    {
+      "asciiname": "Lyon",
+      "country": "France",
+      "population": 472317
+    },
+    {
+      "asciiname": "Edinburgh",
+      "country": "United Kingdom",
+      "population": 464990
+    },
+    {
+      "asciiname": "Gdansk",
+      "country": "Poland",
+      "population": 461865
+    },
+    {
+      "asciiname": "Antwerpen",
+      "country": "Belgium",
+      "population": 459805
+    },
+    {
+      "asciiname": "Leeds",
+      "country": "United Kingdom",
+      "population": 455123
+    },
+    {
+      "asciiname": "Murcia",
+      "country": "Spain",
+      "population": 436870
+    },
+    {
+      "asciiname": "Toulouse",
+      "country": "France",
+      "population": 433055
+    },
+    {
+      "asciiname": "Bratislava",
+      "country": "Slovakia",
+      "population": 423737
+    },
+    {
+      "asciiname": "Szczecin",
+      "country": "Poland",
+      "population": 407811
+    },
+    {
+      "asciiname": "Palma",
+      "country": "Spain",
+      "population": 401270
+    },
+    {
+      "asciiname": "Tallinn",
+      "country": "Estonia",
+      "population": 394024
+    },
+    {
+      "asciiname": "Las Palmas de Gran Canaria",
+      "country": "Spain",
+      "population": 381847
+    },
+    {
+      "asciiname": "Tirana",
+      "country": "Albania",
+      "population": 374801
+    },
+    {
+      "asciiname": "Kaunas",
+      "country": "Lithuania",
+      "population": 374643
+    },
+    {
+      "asciiname": "Brno",
+      "country": "Czech Republic",
+      "population": 369559
+    },
+    {
+      "asciiname": "Mahilyow",
+      "country": "Belarus",
+      "population": 369200
+    },
+    {
+      "asciiname": "Bydgoszcz",
+      "country": "Poland",
+      "population": 366452
+    },
+    {
+      "asciiname": "Bologna",
+      "country": "Italy",
+      "population": 366133
+    },
+    {
+      "asciiname": "Lublin",
+      "country": "Poland",
+      "population": 360044
+    },
+    {
+      "asciiname": "Bilbao",
+      "country": "Spain",
+      "population": 354860
+    },
+    {
+      "asciiname": "Thessaloniki",
+      "country": "Greece",
+      "population": 354290
+    },
+    {
+      "asciiname": "Florence",
+      "country": "Italy",
+      "population": 349296
+    },
+    {
+      "asciiname": "Vitebsk",
+      "country": "Belarus",
+      "population": 342700
+    },
+    {
+      "asciiname": "Zurich",
+      "country": "Switzerland",
+      "population": 341730
+    },
+    {
+      "asciiname": "Plovdiv",
+      "country": "Bulgaria",
+      "population": 340494
+    },
+    {
+      "asciiname": "Nice",
+      "country": "France",
+      "population": 338620
+    },
+    {
+      "asciiname": "Iasi",
+      "country": "Romania",
+      "population": 318012
+    },
+    {
+      "asciiname": "Hrodna",
+      "country": "Belarus",
+      "population": 317365
+    },
+    {
+      "asciiname": "Katowice",
+      "country": "Poland",
+      "population": 317316
+    },
+    {
+      "asciiname": "Cluj-Napoca",
+      "country": "Romania",
+      "population": 316748
+    },
+    {
+      "asciiname": "Timisoara",
+      "country": "Romania",
+      "population": 315053
+    },
+    {
+      "asciiname": "Ostrava",
+      "country": "Czech Republic",
+      "population": 313088
+    },
+    {
+      "asciiname": "Varna",
+      "country": "Bulgaria",
+      "population": 312770
+    },
+    {
+      "asciiname": "Craiova",
+      "country": "Romania",
+      "population": 304142
+    },
+    {
+      "asciiname": "Constanta",
+      "country": "Romania",
+      "population": 303399
+    },
+    {
+      "asciiname": "Malmoe",
+      "country": "Sweden",
+      "population": 301706
+    },
+    {
+      "asciiname": "Brest",
+      "country": "Belarus",
+      "population": 300715
+    },
+    {
+      "asciiname": "Galati",
+      "country": "Romania",
+      "population": 294087
+    },
+    {
+      "asciiname": "Catania",
+      "country": "Italy",
+      "population": 290927
+    },
+    {
+      "asciiname": "Utrecht",
+      "country": "Netherlands",
+      "population": 290529
+    },
+    {
+      "asciiname": "Bari",
+      "country": "Italy",
+      "population": 277387
+    },
+    {
+      "asciiname": "Nantes",
+      "country": "France",
+      "population": 277269
+    },
+    {
+      "asciiname": "Strasbourg",
+      "country": "France",
+      "population": 274845
+    },
+    {
+      "asciiname": "Ljubljana",
+      "country": "Slovenia",
+      "population": 272220
+    },
+    {
+      "asciiname": "Espoo",
+      "country": "Finland",
+      "population": 256760
+    },
+    {
+      "asciiname": "Nis",
+      "country": "Serbia",
+      "population": 250000
+    },
+    {
+      "asciiname": "Porto",
+      "country": "Portugal",
+      "population": 249633
+    },
+    {
+      "asciiname": "Montpellier",
+      "country": "France",
+      "population": 248252
+    },
+    {
+      "asciiname": "Arhus",
+      "country": "Denmark",
+      "population": 237551
+    },
+    {
+      "asciiname": "Kosice",
+      "country": "Slovakia",
+      "population": 236563
+    },
+    {
+      "asciiname": "Bordeaux",
+      "country": "France",
+      "population": 231844
+    },
+    {
+      "asciiname": "Gent",
+      "country": "Belgium",
+      "population": 231493
+    },
+    {
+      "asciiname": "Lille",
+      "country": "France",
+      "population": 228328
+    },
+    {
+      "asciiname": "Graz",
+      "country": "Austria",
+      "population": 222326
+    },
+    {
+      "asciiname": "Banja Luka",
+      "country": "Bosnia and Herzegovina",
+      "population": 221106
+    },
+    {
+      "asciiname": "Babruysk",
+      "country": "Belarus",
+      "population": 220517
+    },
+    {
+      "asciiname": "Novi Sad",
+      "country": "Serbia",
+      "population": 215400
+    },
+    {
+      "asciiname": "Bergen",
+      "country": "Norway",
+      "population": 213585
+    },
+    {
+      "asciiname": "Eindhoven",
+      "country": "Netherlands",
+      "population": 209620
+    },
+    {
+      "asciiname": "Linz",
+      "country": "Austria",
+      "population": 204846
+    },
+    {
+      "asciiname": "Debrecen",
+      "country": "Hungary",
+      "population": 204124
+    },
+    {
+      "asciiname": "Tampere",
+      "country": "Finland",
+      "population": 202687
+    },
+    {
+      "asciiname": "Favoriten",
+      "country": "Austria",
+      "population": 201882
+    },
+    {
+      "asciiname": "Nicosia",
+      "country": "Cyprus",
+      "population": 200452
+    },
+    {
+      "asciiname": "Charleroi",
+      "country": "Belgium",
+      "population": 200132
+    },
+    {
+      "asciiname": "Tilburg",
+      "country": "Netherlands",
+      "population": 199613
+    },
+    {
+      "asciiname": "Burgas",
+      "country": "Bulgaria",
+      "population": 195966
+    },
+    {
+      "asciiname": "Klaipeda",
+      "country": "Lithuania",
+      "population": 192307
+    },
+    {
+      "asciiname": "Cork",
+      "country": "Ireland",
+      "population": 190384
+    },
+    {
+      "asciiname": "Vantaa",
+      "country": "Finland",
+      "population": 190058
+    },
+    {
+      "asciiname": "Donaustadt",
+      "country": "Austria",
+      "population": 187007
+    },
+    {
+      "asciiname": "Dun Laoghaire",
+      "country": "Ireland",
+      "population": 185400
+    },
+    {
+      "asciiname": "Geneve",
+      "country": "Switzerland",
+      "population": 183981
+    },
+    {
+      "asciiname": "Liege",
+      "country": "Belgium",
+      "population": 182597
+    },
+    {
+      "asciiname": "Groningen",
+      "country": "Netherlands",
+      "population": 181194
+    },
+    {
+      "asciiname": "Amadora",
+      "country": "Portugal",
+      "population": 178858
+    },
+    {
+      "asciiname": "Almere Stad",
+      "country": "Netherlands",
+      "population": 176432
+    },
+    {
+      "asciiname": "Split",
+      "country": "Croatia",
+      "population": 176314
+    },
+    {
+      "asciiname": "Turku",
+      "country": "Finland",
+      "population": 175945
+    },
+    {
+      "asciiname": "Miskolc",
+      "country": "Hungary",
+      "population": 172637
+    },
+    {
+      "asciiname": "Baranovichi",
+      "country": "Belarus",
+      "population": 168772
+    },
+    {
+      "asciiname": "Patra",
+      "country": "Greece",
+      "population": 168034
+    },
+    {
+      "asciiname": "Breda",
+      "country": "Netherlands",
+      "population": 167673
+    },
+    {
+      "asciiname": "Szeged",
+      "country": "Hungary",
+      "population": 164883
+    },
+    {
+      "asciiname": "Basel",
+      "country": "Switzerland",
+      "population": 164488
+    },
+    {
+      "asciiname": "Zenica",
+      "country": "Bosnia and Herzegovina",
+      "population": 164423
+    },
+    {
+      "asciiname": "Pilsen",
+      "country": "Czech Republic",
+      "population": 164180
+    },
+    {
+      "asciiname": "Piraeus",
+      "country": "Greece",
+      "population": 163688
+    },
+    {
+      "asciiname": "Floridsdorf",
+      "country": "Austria",
+      "population": 162779
+    },
+    {
+      "asciiname": "Nijmegen",
+      "country": "Netherlands",
+      "population": 158732
+    },
+    {
+      "asciiname": "Tiraspol",
+      "country": "Moldova",
+      "population": 157000
+    },
+    {
+      "asciiname": "Pecs",
+      "country": "Hungary",
+      "population": 156649
+    },
+    {
+      "asciiname": "Ruse",
+      "country": "Bulgaria",
+      "population": 156238
+    }
+  ]
+}
