@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
     "express": "^4.17.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "showdown": "^1.9.1",
     "vue": "^2.6.11",
